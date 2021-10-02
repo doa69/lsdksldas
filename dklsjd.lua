@@ -1,12 +1,4 @@
---[[
 
-Hank HUB Login
-
-Made by Hank#4242
-
-Discord server = "https://discord.io/hankhub"
-
-]]
 
 -- Key --
 
