@@ -105,6 +105,6 @@ spawn(function()
     if game.PlaceId == 4581966615 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/HankRBXHelper/Hank-HUB-UI-Library/main/%5BHH%5D%20Hank%20HUB%20Anomic%20(V1.4).lua", true))()
     else
-        notify("Jacob HUB","This game is doesn't supported by Hank HUB")
+        notify("Jacob HUB","This game is doesn't supported")
     end
 end)
